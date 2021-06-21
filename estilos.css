@@ -1,6 +1,6 @@
 header {
     align-items: center;
-    background-image:url('Image/Image1.jpg');
+    background-image:url('image/Image1.jpg');
     background-size: contain;
     display: flex;
     justify-content: center;
